@@ -53,7 +53,7 @@ Mỗi card:
 
 ---
 
-## ▶️ Cách chạy project
+## Cách chạy project
 
 ```bash
 npm install
