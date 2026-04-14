@@ -1,5 +1,3 @@
-/*@return {JSX.Element}
-*/
 function Header(){
     return(
         <header className="header">
